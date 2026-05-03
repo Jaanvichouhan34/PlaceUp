@@ -1,5 +1,5 @@
 # PlaceUp 🚀
-[live]{https://place-up-tau.vercel.app/}
+https://place-up-tau.vercel.app/
 
 **Your AI Placement Co-Pilot**
 
