@@ -48,4 +48,3 @@ PlaceUp is a personalized, AI-driven placement preparation platform tailored for
 
 ---
 *Made with ❤️ for every B.Tech student striving for their dream job.*
-.....
